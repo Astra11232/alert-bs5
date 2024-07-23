@@ -1,0 +1,9 @@
+.content{
+    height: 100vh;
+    display: flex;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.img1{
+    width: 100%;
+}
